@@ -1,2 +1,2 @@
 # Riddle
-MIcrolibrary to gets a random riddle.
+An unopinionated microlibrary serving up riddles.
