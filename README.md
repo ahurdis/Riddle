@@ -1,2 +1,2 @@
 # Riddle
-An unopinionated microlibrary serving up riddles.
+An unopinionated microlibrary serving up riddles on demand.
