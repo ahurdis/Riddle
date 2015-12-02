@@ -1,0 +1,25 @@
+{
+  "name": "Riddle",
+  "version": "0.0.0",
+  "description": "An unopinionated microlibrary serving up riddles on demand.",
+  "main": "index.js",
+  "author": {
+    "name": "HurdisA",
+    "email": ""
+  },
+  "dependencies": {
+    "colors": "*",
+    "readline-sync": "*",
+    "unique-random-array": "1.0.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ahurdis/Riddle"
+  },
+  "keywords": [
+    "random",
+    "riddle",
+    "unopinionated"
+  ],
+  "license": "MIT"
+}
