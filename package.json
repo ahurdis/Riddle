@@ -1,5 +1,5 @@
 {
-  "name": "Riddle",
+  "name": "riddle",
   "version": "0.0.0",
   "description": "An unopinionated microlibrary serving up riddles on demand.",
   "main": "index.js",
